@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Templates>
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Text.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="C:\Users\helm.FCPSEDU.000\Documents\DYMO Label\Labels\Layouts\Test.label" IsBuiltIn="False" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label (horizontal).label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label postnet bottom.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label postnet bottom (horizontal).label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label no postnet.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label no postnet (horizontal).label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label no postnet non US.label" IsBuiltIn="True" MarketRegion="America, EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Label no postnet non US (h).label" IsBuiltIn="True" MarketRegion="America, EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, DYMO Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, DYMO Logo (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320, 30341 Address with Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320, 30341 Address with Graphic (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251, 30252, 30254, 30255, 30320, 30341 Address File Folder.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251, 30252, 30254, 30255, 30320, 30341 Address File Folder (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251, 30252, 30254, 30255, 30320, 30341 Address File Folder Double Sided.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251, 30252, 30254, 30255, 30320, 30341 Address File Folder Double Sided (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, Barcode (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Asset Label, UPC Code.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address Asset Label, UPC Code (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, Fax Routing Label.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30251,30252, 30254, 30255, 30320 Address, Fax Routing Label (horizontal).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30330, Return Address.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30330, Return Address Label, Envelope Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11352 Return Address, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11352 Return Address, Image.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11352, Return Address, Priority Mail.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11352, Return Address, Rush.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address Barcode Top.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address Barcode Bottom.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address, non US.label" IsBuiltIn="True" MarketRegion="America, EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address with Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address with Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address File Folder Double Sided.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30321, Large Address, Express Mail.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30321, Return Address Label, Return to Sender.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Large Address, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Large Address, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Large Address, CE Label.label" IsBuiltIn="True" MarketRegion="EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Large Address, Checklist.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Large Address, Manifest Label.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99012, 99013, Address, Serial.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30253, Address, Mirror Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30253, Address Label, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, Barcode at Top.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, Barcode at Top (h).label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, Barcode at Bottom.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, Barcode at Bottom (h).label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, No Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Shipping Label, No Barcode (h).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping with Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping with Logo (h).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping with Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping with Graphic (h).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30259, 30344, Large Shipping Name Badge.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30259, 30344, Large Shipping Name Badge (h).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping ID Badge.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30256, 30269, 30344, Large Shipping ID Badge (h).label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping Label, Barcode at Bottom.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping Barcode Top.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping Barcode Bottom.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping, non US.label" IsBuiltIn="True" MarketRegion="America, EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping with Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping with Graphic.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping  Name Badge.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30323, Shipping with Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, Barcode.label" IsBuiltIn="True" MarketRegion="EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, CE Label.label" IsBuiltIn="True" MarketRegion="EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, Checklist.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014 Shipping, Fax Routing.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, Visitor.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014 Shipping, Manifest Label.label" IsBuiltIn="True" MarketRegion="EMEA, Australia, China" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, This Side Up.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99014, Shipping, Portrait Visitor.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99019, Confirmation Label, Address.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99019, Confirmation Label, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99019 Large LAF, Address.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99019 Large LAF, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99019 Large LAF,  fixed textbox.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99018, Small LAF, Address.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99018, Small LAF, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99018, Small LAF, Text Box.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/1744907, Shipping.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/1744907, 4XL Label, Emergency Contacts.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/1744907, Table Tent.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/ExtraLargeShippingLabel1.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/ExtraLargeShippingLabel2.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30327, File Folder.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30327, File Folder, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99017, File Folder, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99017, File Folder, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99017, Multipurpose, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30277, File Folder, 2-up, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30277, File Folder, 2-up, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30376, Hanging File, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30376, Hanging File, Mirror Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30857, 30911, Name Badge, Hello.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30857, 30911, Name Badge, Visitor.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30857, 30911, Name Badge, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30856, Name Badge, Hello.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30856, Visitor Badge.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30856, Name Badge, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30296, 30365, Name Badge Tag, Hello.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30296, 30365, Name Badge Tag, Visitor.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30296, 30365, Name Badge Tag, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Business.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Customer.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Membership.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Image.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11356, Name Badge, Appointment.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30336, Small, Multi-Purpose, Priority Mail.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30336, Small, Multi-Purpose, Rush.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30258, Large Multi-Purpose, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30258, Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30258, Large Multi-Purpose, Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30258, Large Multi-Purpose, Inventory.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30258, Large Multi-Purpose, Price Sticker.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99015, Multipurpose, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99015, Multipurpose, Serial Number.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30326, Multi-Purpose, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30326, Multi-Purpose, Text and Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30326, Multi-Purpose, Fragile.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99016, VHS Top, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99016, VHS Top, Text and Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99016, VHS Top, Fragile.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30334, Medium Multi-Purpose, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30334, Medium Multi-Purpose, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11354, Multipurpose,Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30334, Medium Multi-Purpose, Barcode linked to Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30334, Medium Multi-Purpose, Inspected By.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11355, Multipurpose, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30332, Square, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30332, Square, Telephone Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30332, Square, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30333, Small, Multi-Purpose, 2-up, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30333, Small, Multi-Purpose, Small, 2-up Price Tag.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/11353, 2-Up, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30325, Multi-Purpose, Large Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30325, Multi-Purpose, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30325, Multi-Purpose, Barcode and Date.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99016, VHS Spine, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/99016, VHS Spine, Portrait.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30370, Multi-Purpose, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30370, Multi-Purpose, Telephone Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30339, Thin, 2-up, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30339, Thin, 2-up, Date.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30339, Thin, 2-up, Mirror Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30335, Square, 4-up, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30335, Square, 4-up, Made in USA.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/30374, Business Card, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30374, Business Card, Traditional.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30374, Membership Card.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30374, Appointment Card.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30374, Frequent Customer Card.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30270, Continous, Non-Adhesive, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30854, CD-DVD, Circular Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30854, CD-DVD, Cricular Mirror Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30854, CD-DVD, Marketing Presentation.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30854, CD-DVD, Text and Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30886, CD-DVD, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30886, Mirrored Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30886, Marketing.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30886, Logo.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30373, Price Tag, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30373, Price Tag, Price and Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30373, Price Tag, Light Bulb Graphic.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30299, Jewelry Price Tag, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30299, Jewelry Price Tag, Price x2.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30299, Jewelry Price Tag, Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30337, Audio Cassette, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30345, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30345, Barcode, Code39-LR.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30346, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/30347, Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/6mm-BigText.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/9mm-BigText.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/12mm-BigText.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/12mm, Price Label, Food.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/12mm, Fire Department Label.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/19mm-BigText.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/19mm, Price Label, Food, Large.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/19mm, Price Label.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/19mm,  Price Label with Barcode.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/24mm-Text.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/24mm-Address.label" IsBuiltIn="True" MarketRegion="US" />
+	<LabelTemplate FileName="LabelTemplates/24mm-Image.label" IsBuiltIn="True" MarketRegion="All" />
+	<LabelTemplate FileName="LabelTemplates/24mm, Price Label with Barcode, Large.label" IsBuiltIn="True" MarketRegion="All" />
+</Templates>

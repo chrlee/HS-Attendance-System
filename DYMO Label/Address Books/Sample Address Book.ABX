@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AddressBook
+  Version="8.0"
+  DefaultPermutation="true"
+  Format="Native" SampleAddresses="true">
+  <AddressEntry>
+    <AddressData>Jim Best
+Good, Bedder, and Best
+900 Park Ave
+New York, NY 10021-0231</AddressData>
+    <Name>
+      <FirstName>Jim</FirstName>
+      <LastName>Best</LastName>
+      <FileAs>Good, Bedder, and Best</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Gábor Candrás
+PST Kft
+Hunyadi János u.5
+1119 Budapest
+Hungary</AddressData>
+    <Name>
+      <FirstName>Gábor</FirstName>
+      <LastName>Candrás</LastName>
+      <FileAs>Candrás, Gábor</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Ralph Cheatham
+Dewey, Cheatham, and Howe, Esq.
+104 Montgomery St
+San Francisco, CA 94104-4301</AddressData>
+    <Name>
+      <FirstName>Ralph</FirstName>
+      <LastName>Cheatham</LastName>
+      <FileAs>Dewey, Cheatham, and Howe, Esq.</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Will E. Coyote
+ACME Birding
+2200 Desert Meadows Way
+Las Vegas, NV 89122</AddressData>
+    <Name>
+      <FirstName>Will E.</FirstName>
+      <LastName>Coyote</LastName>
+      <FileAs>Coyote, Will E.</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Ed Degas
+Impress Ion Inc.
+689 Brush St
+Oakland, CA 94607-3249</AddressData>
+    <Name>
+      <FirstName>Ed</FirstName>
+      <LastName>Degas</LastName>
+      <FileAs>Degas, Ed</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Danielle Kilgarriff
+Euro Design B.V.
+Huis ter Heideweg 92
+4708 LZ Zeist
+THE NETHERLANDS</AddressData>
+    <Name>
+      <FirstName>Danielle</FirstName>
+      <LastName>Kilgarriff</LastName>
+      <FileAs>Kilgarriff, Danielle</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Andrea Mantegna
+200 W 30th St
+New York, NY 10001-4901</AddressData>
+    <Name>
+      <FirstName>Andrea</FirstName>
+      <LastName>Mantegna</LastName>
+      <FileAs>Mantegna, Andrea</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Didier Moine
+FROMAÏ
+41 bis, Avenue de l'Europe
+71860 Vélizy Villacoublay
+France</AddressData>
+    <Name>
+      <FirstName>Didier</FirstName>
+      <LastName>Moine</LastName>
+      <FileAs>FROMAÏ</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Alvin C. Monk
+Cartoon Music Company
+1 N Michigan Ave
+Chicago, IL 60602-4812</AddressData>
+    <Name>
+      <FirstName>Alvin C.</FirstName>
+      <LastName>Monk</LastName>
+      <FileAs>Monk, Alvin C.</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Harrison Schreppel
+2880 Sand Hill Rd
+Menlo Park, CA 94025-7022</AddressData>
+    <Name>
+      <FirstName>Harrison</FirstName>
+      <LastName>Schreppel</LastName>
+      <FileAs>Schreppel, Harrison</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Bill Spritzer
+200 W 30th St
+New York, NY 10001-4901</AddressData>
+    <Name>
+      <FirstName>Bill</FirstName>
+      <LastName>Spritzer</LastName>
+      <FileAs>Spritzer, Bill</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Bill Spritzer
+Spritzer Bottle Company
+1022 E Lake Cook Rd
+Buffalo Grove, IL 60089-1890</AddressData>
+    <Name>
+      <FirstName>Bill</FirstName>
+      <LastName>Spritzer</LastName>
+      <FileAs>Spritzer, Bill</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Andrea Mantegna
+Brunelleschi, Donatello, and Ghiberti
+499 Madison Ave
+New York, NY 10022-5801</AddressData>
+    <Name>
+      <FirstName>Andrea</FirstName>
+      <LastName>Mantegna</LastName>
+      <FileAs>Mantegna, Andrea</FileAs>
+    </Name>
+  </AddressEntry>
+</AddressBook>

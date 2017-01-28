@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Portrait</PaperOrientation>
+	<Id>AddressHorizontal</Id>
+	<PaperName>AddressHorizontal</PaperName>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="5040" Height="1581" Rx="90" Ry="90" />
+	</DrawCommands>
+</DieCutLabel>
